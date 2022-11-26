@@ -29,16 +29,5 @@
     "npm": "^8.7.0",
     "stripe": "^8.222.0",
     "validator": "^13.7.0"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HuuThoNguyenPhan/MERN-Stack-Website-ecommerce.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/HuuThoNguyenPhan/MERN-Stack-Website-ecommerce/issues"
-  },
-  "homepage": "https://github.com/HuuThoNguyenPhan/MERN-Stack-Website-ecommerce#readme",
-  "description": ""
+  }
 }

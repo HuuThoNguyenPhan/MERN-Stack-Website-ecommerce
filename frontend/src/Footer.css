@@ -1,0 +1,53 @@
+.location a,
+span {
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+.location a {
+    color: #fec200;
+    margin-right: 5px;
+}
+
+.icon-group {
+    padding: 0 10px;
+    display: flex;
+
+}
+
+.icon-group svg {
+    color: #fff;
+    cursor: pointer;
+    align-items: center;
+    padding: 5px 5px;
+    border-radius: 5px;
+    background-color: #fb468a;
+    margin-right: 20px;
+}
+
+h3 {
+    padding-left: 10px;
+    color: white;
+    font-weight: 500;
+}
+
+.copyright {
+    border-color:
+        #ffddea;
+    border-style:
+        solid none none;
+    border-width:
+        1px 0px 0px;
+    color:
+        #ffffff;
+    font-family:
+        Helvetica;
+    font-size:
+        11px;
+    line-height:
+        14px;
+    padding:
+        15px 0px
+}

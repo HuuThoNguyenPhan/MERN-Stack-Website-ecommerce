@@ -11,4 +11,5 @@
 ## Muốn xem database:
 ## B1: Tải mongodb compass, link: https://www.mongodb.com/try/download/shell
 ## B2: Mở mongodb compass  
-## B3: Điền link bên dưới vào ô URI ở New connection mongodb+srv://tho:14082001@cluster0.s61svth.mongodb.net/test
+## B3: Điền link bên dưới vào ô URI ở New connection: 
+mongodb+srv://tho:14082001@cluster0.s61svth.mongodb.net/test

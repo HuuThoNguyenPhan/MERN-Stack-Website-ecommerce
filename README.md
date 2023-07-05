@@ -1,0 +1,14 @@
+# MERN-Stack-Website-ecommerce
+
+## B1: Máy phải cài đặt nodejs
+## B2: Mở thư mục MERN-Ecommerce-store trong vscode
+## B3: Khởi tạo 2 terminal:
+	## + Một cái chuyển vào thư mục backend: cd /backend
+	## + Sau đó nhập lệnh: npm run dev
+	## + Một cái chuyển vào thư mục frontend: cd /fronted
+	## + Sau đó nhập lệnh: npm start 
+
+## Muốn xem database:
+## B1: Tải mongodb compass, link: https://www.mongodb.com/try/download/shell
+## B2: Mở mongodb compass  
+## B3: Điền link bên dưới vào ô URI ở New connection mongodb+srv://tho:14082001@cluster0.s61svth.mongodb.net/test
